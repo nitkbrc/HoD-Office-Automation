@@ -1,4 +1,4 @@
-## Automation of Temporary Faculty Walk-in Interview Documents
+# Automation of Temporary Faculty Walk-in Interview Documents
 
 # Int-Merit-All
 # Int-Merit-Sort
